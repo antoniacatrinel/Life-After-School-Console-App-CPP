@@ -12,7 +12,7 @@ public:
 	HTMLEventsList();
 
 	/// <summary>
-	/// Destructor for CSVEventsList class
+	/// Destructor for HTMLEventsList class
 	/// </summary>
 	~HTMLEventsList();
 
